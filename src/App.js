@@ -1,15 +1,11 @@
-import React from "react";
-import "./App.css";
-
+import React from 'react';
+import Home from './home';
+import AboutMe from './aboutme';
+import Education from './education';
+import ContactMe from './contactme';
 
 function App() {
- return (
-    <div style={{textAlign:"center", color: "#black"}}>
-    <h1>Portfolio</h1>
-    <h2>Wattanawipa Nakhawtom</h2>
-    </div>
-
- );
+  return <Home/>
 }
 
 export default App;

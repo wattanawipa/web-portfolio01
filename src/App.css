@@ -3,6 +3,16 @@
   background-color: #61dafb;
 }
 
+.home{
+  background-color: #23c6f3;
+  text-align: center;
+  color: #000;
+}
+
+.aboutme{
+  color: #000;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
