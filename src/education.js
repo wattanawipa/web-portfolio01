@@ -9,7 +9,7 @@ export default function AboutMe() {
     return (
       <div style={{ backgroundColor: "#f0f0f0", textAlign: "center", padding: '20px' }}>
             <h3>Education</h3><br/>
-            <div style={{textAlign: "left", color: "black", fontSize: "16px"}}><h3>ประวัติการศึกษา</h3>
+            <div style={{textAlign: "left", color: "black", fontSize: "16px"}}>ประวัติการศึกษา<br/>
             ระดับประถมศึกษา: โรงเรียนประคองศิลป์<br/>
             ระดับมัธยมศึกษาตอนต้น: โรงเรียนชัยสิทธาวาส "พัฒน์สายบำรุง" สาย วิทย์-คณิต<br/>
             ระดับมัธยมศึกษาตอนปลาย: โรงเรียนชัยสิทธาวาส "พัฒน์สายบำรุง" สาย วิทย์-คณิต<br/>
